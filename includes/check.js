@@ -1,12 +1,8 @@
 function check(puzName) {
     const puzzles = {
-        dream: "LIVEALIE",
-        rhizome : "POLLINATED",
-        meta : "CRACKOPENACOLDONE",
-        sleep: "THEMCRIBISBACK",
-        walk: "STROLLER",
-        cat: "INCOMPLETE",
-        stir: "FROTHED",
+        naur: "CRYINGANDCHUNDERING",
+        lace: "LADYGODIVA",
+        read: "CYRANO",
     };
     // reset both correct and incorrect answers
     document.getElementById("result").innerHTML = "";

@@ -41,7 +41,7 @@ button{
 }
 
 .nav h1 {
-  font-family: 'tradeWinds', monospace;
+  font-family: 'Helvetica', monospace;
   display: inline-block;
   padding: 5 px;
   font-size: 40px;
@@ -69,7 +69,7 @@ a:link, a:visited, a:active {
 }
 
 a:hover {
-  color: #61db49;
+  color: #5b49ff;
   text-decoration: none;
 }
 
